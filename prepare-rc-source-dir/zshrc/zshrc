@@ -1,0 +1,4 @@
+setopt PROMPT_SUBST
+export PS1='[%S%T%s]%U%n%u@%B%M%b:
+%~> '
+
